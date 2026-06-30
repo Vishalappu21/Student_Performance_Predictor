@@ -118,4 +118,4 @@ ax.set_xlabel('Importance Score')
 ax.set_title('Feature Importance')
 st.pyplot(fig)
 
-st.caption("Built for School Studen🚀")
+st.caption("Built for School Student🚀")
