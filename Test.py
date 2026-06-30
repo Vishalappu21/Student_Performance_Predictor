@@ -234,3 +234,4 @@ if file_find is not None:
             EDA = EDA_chart(db_record['Data'],data_clean)
             Fea_Eng = feature_engineering(x=db_record['Data'],column_name=data_clean)
             ml_record = train_model(db_record['Data'])
+print('hello ')
